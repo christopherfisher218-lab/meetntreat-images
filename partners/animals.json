@@ -425,8 +425,8 @@
     "species": "Dog",
     "shelter_name": "Meraki Animal Haven Society",
     "profile_url": "https://meetntreat.org/meraki/",
-    "breed": "French Bulldog & Pit Bull Terrier",
-    "sex": "",
+    "breed": "Rhodesian Ridgeback & Pit Bull Terrier",
+    "sex": "Female",
     "age_category": "",
     "color": "",
     "energy_level": "",
@@ -447,7 +447,7 @@
     "photo_url": "https://raw.githubusercontent.com/christopherfisher218-lab/meetntreat-images/main/partners/photos/meraki-ember-4e5f-1791315010-04b313.jpg",
     "photo_path": "partners/photos/meraki-ember-4e5f-1791315010-04b313.jpg",
     "created_at": "2026-10-06T19:30:11.735710",
-    "updated_at": "2026-10-06T19:34:22.134476"
+    "updated_at": "2026-10-06T20:06:56.282127"
   },
   {
     "id": "MERAKI-finley-cfed",
