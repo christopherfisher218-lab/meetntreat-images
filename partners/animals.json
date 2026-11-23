@@ -1163,11 +1163,12 @@
     "spayed_neutered": false,
     "vaccinated": false,
     "house_trained": false,
-    "status": "active",
+    "status": "adopted",
     "photo_url": "https://images.meetntreat.org/partners/photos/meraki-prince-6cd2-1792343135-7db165.jpg",
     "photo_path": "partners/photos/meraki-prince-6cd2-1792343135-7db165.jpg",
     "created_at": "2026-10-06T20:06:17.662874",
-    "updated_at": "2026-10-18T17:05:35.806671"
+    "updated_at": "2026-11-23T00:46:49.803493",
+    "adopted_date": "2026-11-23T00:46:49.803493"
   },
   {
     "id": "MERAKI-raeyn-d4e4",
